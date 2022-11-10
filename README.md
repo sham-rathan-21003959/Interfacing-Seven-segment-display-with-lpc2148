@@ -26,7 +26,7 @@ Figure-01 Internal circuit for seven segment MPX4 display
 
    ![image](https://user-images.githubusercontent.com/36288975/201021740-565b47cd-26d8-4e54-a092-eef7a0a85278.png)
  
-          Figure-02 Pin configuration for seven segment display  
+       
 
 
 Below table shows the HEX values and corresponding digit according to LPC2148 pins for common cathode configuration.
