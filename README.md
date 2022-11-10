@@ -94,7 +94,11 @@ int main(void)
 
 
 ##  Output screen shots :
+![1](https://user-images.githubusercontent.com/93587823/201155023-7f36d38a-ed53-447c-a2b2-468becd2743c.png)
 
+![2](https://user-images.githubusercontent.com/93587823/201155207-111c50c8-6f65-4304-8dfc-2762998af529.png)
+
+![3](https://user-images.githubusercontent.com/93587823/201155257-a9e8bd0c-cd9a-45d6-a71e-2badcfa6ccd4.png)
 
 ### Result :
 LED seven segment display is interfaced and displayed alpha numeric characters 
